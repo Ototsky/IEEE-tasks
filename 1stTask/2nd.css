@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+div {
+  height: 600px;
+  background-color: #808080;
+  color: white;
+  background-image: url(background.jpeg);
+  background-size: auto;
+}
+.shape-2 {
+  background-repeat: repeat-x;
+}
+.shape-3 {
+  background-repeat: no-repeat;
+}
